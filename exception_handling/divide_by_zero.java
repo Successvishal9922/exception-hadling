@@ -15,5 +15,6 @@ public class divide_by_zero {
         } catch (ArithmeticException e) {
             System.out.println("Error: Division by zero is not allowed.");
         }
+        sc.close();
     }
 }
