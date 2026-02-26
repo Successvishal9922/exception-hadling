@@ -12,7 +12,7 @@ public class multiplecatch {
             for (int i = 0; i < 7; i++) {
                 a[i] = sc.nextInt();
             }
-            // try block throws only that exp which occurs first in this case array out of bound exp ouccurs first 
+            // try block throws only that exp which occurs first in this case array out of bound exp ouccured first 
             int s = 10;
             int t = 0;
             int c = s/t;
